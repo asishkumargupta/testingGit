@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cluster journey booking not allowed through booking form 1</description>
+   <name>TC_CL_NORMAL_BKG_11_01_notInUse</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc7d5cf2-db0e-46d6-9471-31b82ecd0c1e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>61ef5e4f-61b6-4d5f-a498-7f476bdabb86</id>
+      <masked>false</masked>
+      <name>inputPNRNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9997c0ca-3010-4f84-9802-43e3b1353d7b</id>
+      <masked>false</masked>
+      <name>trainNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7e231f89-858d-472a-b5bc-beafa282e25d</id>
+      <masked>false</masked>
+      <name>jrnyDate</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>92c60db1-8ea7-4742-9d98-305b9c954fa8</id>
+      <masked>false</masked>
+      <name>sourceStnCode</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1c06e063-8853-469a-8baf-083feea099c9</id>
+      <masked>false</masked>
+      <name>destnStnCode</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6c63b17f-008c-46df-8acc-58538be5187f</id>
+      <masked>false</masked>
+      <name>quotaCode</name>
+   </variable>
+</TestCaseEntity>

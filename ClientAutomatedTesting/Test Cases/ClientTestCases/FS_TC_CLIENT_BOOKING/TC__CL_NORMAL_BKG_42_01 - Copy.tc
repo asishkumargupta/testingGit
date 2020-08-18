@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>System should impose GST for tickets booked in classes other than    SL/2S/2T.</description>
+   <name>TC__CL_NORMAL_BKG_42_01 - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5a93fa58-3669-4de1-ab7f-25addcacf508</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fa4dcbef-aff7-4137-9591-b2c441f4d7c5</id>
+      <masked>false</masked>
+      <name>inputPNRNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c809fe39-1a0f-4492-835b-fe6b69b8aaa6</id>
+      <masked>false</masked>
+      <name>trainNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>47b8872b-9129-4691-9c92-beb03cdb768e</id>
+      <masked>false</masked>
+      <name>jrnyDate</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>354c21c7-bb0f-459f-9dff-7f5307a709f6</id>
+      <masked>false</masked>
+      <name>sourceStnCode</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7589c970-6baa-4b26-a963-a5189a39de96</id>
+      <masked>false</masked>
+      <name>destnStnCode</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b29accab-2bbd-45b8-a9cc-a301473e754b</id>
+      <masked>false</masked>
+      <name>quotaCode</name>
+   </variable>
+</TestCaseEntity>

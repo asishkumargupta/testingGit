@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>On GST not applicable tickets system should print general GST information like SAC, GSTIN of IR, and state of supply. </description>
+   <name>TC__CL_NORMAL_BKG_44_01 - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed31cc07-4176-458d-ae58-24c557db841f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1b74ee18-dbc9-48df-a01a-51cf7fe4f14e</id>
+      <masked>false</masked>
+      <name>inputPNRNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d135a835-3ede-42b9-b2f3-4e55ec5a61f5</id>
+      <masked>false</masked>
+      <name>trainNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>87a0e6bd-f99c-4b45-a552-26ae62bc488a</id>
+      <masked>false</masked>
+      <name>jrnyDate</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bf910c93-0e28-4e38-b00a-8354d7bee7e3</id>
+      <masked>false</masked>
+      <name>sourceStnCode</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b65049d3-2573-466b-8943-b62de9d1e4ed</id>
+      <masked>false</masked>
+      <name>destnStnCode</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9ee31c23-720c-475e-8b63-2b35563f251f</id>
+      <masked>false</masked>
+      <name>quotaCode</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To test successsful Login</description>
+   <name>TC_GetCurStatFromEMCP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7252cb92-69a1-448f-ad7f-00c6969a28c5</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5f6adb0b-e307-4c69-a374-0a728879c6d6</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cfad84a5-8b2e-40aa-bab4-2755ca36fad3</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

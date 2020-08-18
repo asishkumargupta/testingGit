@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mobile no input is mandatory for cashless/upi payment.</description>
+   <name>TC_CL_NORMAL_BKG_40_01 - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>339cfecb-f8b8-4c64-845c-5e86be86d750</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f4840e95-6e1b-41d1-88a2-29f9606a5e7d</id>
+      <masked>false</masked>
+      <name>inputPNRNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7040fe3a-2d7b-4f81-9ced-c5dac88608f2</id>
+      <masked>false</masked>
+      <name>trainNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1f2d718f-e175-4aa0-9f11-49689bea2aec</id>
+      <masked>false</masked>
+      <name>jrnyDate</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0b5791b8-80aa-4d7a-8aeb-24d502706960</id>
+      <masked>false</masked>
+      <name>sourceStnCode</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4dc3526e-94fa-46f8-8c90-a779c889d384</id>
+      <masked>false</masked>
+      <name>destnStnCode</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2a9b9390-73ec-4a6f-bee2-8a90e6085f4b</id>
+      <masked>false</masked>
+      <name>quotaCode</name>
+   </variable>
+</TestCaseEntity>

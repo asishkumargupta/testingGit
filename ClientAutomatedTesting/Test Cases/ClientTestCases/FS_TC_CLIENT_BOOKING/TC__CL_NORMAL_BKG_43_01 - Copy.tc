@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>On GST imposed journey ticket, system should print booking specific GST information.</description>
+   <name>TC__CL_NORMAL_BKG_43_01 - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f56d5b3b-76ce-43c8-b1fe-c7bd6e91fb90</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8dde7bf6-c695-4dcc-a56a-b44711ac91c1</id>
+      <masked>false</masked>
+      <name>inputPNRNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>48931f7e-79a8-4af7-8498-a043538ca793</id>
+      <masked>false</masked>
+      <name>trainNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c598f0d1-e666-4069-a7db-6d4d4cc1aae5</id>
+      <masked>false</masked>
+      <name>jrnyDate</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>18e3d683-b047-4c18-a338-17319a01b1db</id>
+      <masked>false</masked>
+      <name>sourceStnCode</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>851ec139-ac6b-4251-a26b-3f9750bb65f8</id>
+      <masked>false</masked>
+      <name>destnStnCode</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cfbef75d-917c-4f0a-8252-633785d8211f</id>
+      <masked>false</masked>
+      <name>quotaCode</name>
+   </variable>
+</TestCaseEntity>

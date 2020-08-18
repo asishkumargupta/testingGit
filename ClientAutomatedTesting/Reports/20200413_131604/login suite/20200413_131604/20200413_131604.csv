@@ -1,0 +1,4 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+login suite,Chrome 80.0.3987.163,,,2020-04-13 13:16:09,2020-04-13 13:17:18,1m - 8.518s,FAILED
+,,,,,,,
+Test Cases/ClientTestCases/TCLogin,Chrome 80.0.3987.163,To test successsful Login,,2020-04-13 13:16:10,2020-04-13 13:17:18,1m - 7.932s,FAILED

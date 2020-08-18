@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To test successsful Login</description>
+   <name>TCLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b4c64728-a18e-4f78-921e-1e97395a094e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9d121b5c-4da5-4a7a-8a66-526d75e71d39</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e7a47d73-c49f-4da0-8303-71e417856c72</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

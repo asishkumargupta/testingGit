@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>If booking is tried for passenger having less than minimum adult age then berth choice is mandatory</description>
+   <name>TC__CL_NORMAL_BKG_21_01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6933dac9-8c65-48a9-a832-4035e7ac70ba</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>18d4a9bd-5076-4195-b571-9bd07fada1de</id>
+      <masked>false</masked>
+      <name>inputPNRNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dd523174-6480-483b-af78-ed34f61fa656</id>
+      <masked>false</masked>
+      <name>trainNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3ad0c847-5089-4c7e-82de-ac8deea195f5</id>
+      <masked>false</masked>
+      <name>jrnyDate</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f98f86af-c60c-4141-9dad-b9ce7f7d0915</id>
+      <masked>false</masked>
+      <name>sourceStnCode</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>678c99e8-3fec-4601-84bb-5344be779f83</id>
+      <masked>false</masked>
+      <name>destnStnCode</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>12e3accc-3f13-4043-b13d-52059b1f3266</id>
+      <masked>false</masked>
+      <name>quotaCode</name>
+   </variable>
+</TestCaseEntity>

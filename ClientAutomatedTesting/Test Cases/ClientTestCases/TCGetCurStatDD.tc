@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCGetCurStatDD</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7919dc58-6e98-42eb-89fe-1bc5c559c098</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5acf3cb1-9c1a-428f-bf9c-22a684763033</id>
+      <masked>false</masked>
+      <name>inputPNRNo</name>
+   </variable>
+</TestCaseEntity>

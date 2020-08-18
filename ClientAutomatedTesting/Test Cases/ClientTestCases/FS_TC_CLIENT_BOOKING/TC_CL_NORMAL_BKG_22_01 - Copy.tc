@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>If booking is tried against LD quota then age of male passenger should be less than minimum adult age</description>
+   <name>TC_CL_NORMAL_BKG_22_01 - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8312a21e-3e73-481b-974e-d90c562a4fc9</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>369ebb95-91bd-4d8a-b36f-841789232a40</id>
+      <masked>false</masked>
+      <name>inputPNRNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e6e0da54-6b7a-457a-8840-685cc22b9370</id>
+      <masked>false</masked>
+      <name>trainNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3fe31077-c97c-4ceb-8a70-639bef2fcac2</id>
+      <masked>false</masked>
+      <name>jrnyDate</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>55e757b3-6f67-451d-9986-7bf058ed279f</id>
+      <masked>false</masked>
+      <name>sourceStnCode</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4cafedf2-669b-4b87-8814-bbf7d72956ec</id>
+      <masked>false</masked>
+      <name>destnStnCode</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3e6f34ae-133d-4c55-a659-0dc1a5c8c8df</id>
+      <masked>false</masked>
+      <name>quotaCode</name>
+   </variable>
+</TestCaseEntity>

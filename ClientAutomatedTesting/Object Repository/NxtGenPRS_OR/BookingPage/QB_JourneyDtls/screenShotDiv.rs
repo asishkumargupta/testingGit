@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>screenShotDiv</name>
+   <tag></tag>
+   <elementGuidId>421d5cfb-2772-4a0b-a1c0-f288835da87a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;divMain&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-4</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Quick BookTatkal BookingCurrent BookingJourney PlannerIndirect Journey1Journey Details2Passenger Details3 Confirmation &amp; Payment 4Ticket Printing Journey Details Train *closeJourney date *Journey From *closeJourney To *close3A - THIRD ACClass *GN - GENERALQuota *1No. of Passengers *Boarding Point *closeReservation Upto *closeCoach ChoiceCoach ChoiceAVAILABILITY STATUS :  AVAILABLE-0083BackNext Please fill passengers details  Passenger #01   Concession Card Holder Passenger Name *GenderGender *Age *Berth PreferenceBerth PreferenceFood PreferenceFood PreferenceCountry *closeId Card TypeId Card TypeId Card NoConsession Additional Details CDA ACCOUNT NOID CARD NORULE AUTHORITYReturn DateReturn ClassReturn ClassMobile NoPAYMENT TYPEPAYMENT TYPE *BackNextBooking is in progress... Book Another </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;divMain&quot;)/app-booking[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mt-4&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='divMain']/app-booking/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enquiries'])[2]/following::div[15]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Special Functions'])[2]/following::div[17]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-booking/div</value>
+   </webElementXpaths>
+</WebElementEntity>

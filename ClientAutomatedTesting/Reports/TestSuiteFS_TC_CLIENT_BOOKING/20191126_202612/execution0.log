@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-11-26T20:26:14</date>
+  <millis>1574780174114</millis>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/TestSuiteFS_TC_CLIENT_BOOKING</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="name">TestSuiteFS_TC_CLIENT_BOOKING</property>
+  <property name="description">It will contain all the test cases related to FS_TC_CLIENT_BOOKING</property>
+  <property name="id">Test Suites/TestSuiteFS_TC_CLIENT_BOOKING</property>
+</record>
+<record>
+  <date>2019-11-26T20:26:14</date>
+  <millis>1574780174124</millis>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostName = Asish - PRS_2016_7</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostName">Asish - PRS_2016_7</property>
+</record>
+<record>
+  <date>2019-11-26T20:26:14</date>
+  <millis>1574780174125</millis>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>os = Windows 8.1 64bit</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="os">Windows 8.1 64bit</property>
+</record>
+<record>
+  <date>2019-11-26T20:26:14</date>
+  <millis>1574780174126</millis>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostAddress = 10.222.2.46</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostAddress">10.222.2.46</property>
+</record>
+<record>
+  <date>2019-11-26T20:26:14</date>
+  <millis>1574780174158</millis>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>katalonVersion = 6.2.0.1</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="katalonVersion">6.2.0.1</property>
+</record>
+<record>
+  <date>2019-11-26T20:26:14</date>
+  <millis>1574780174333</millis>
+  <sequence>5</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/ClientTestCases/FS_TC_CLIENT_BOOKING/TC_CL_NORMAL_BKG_11_01</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/ClientTestCases/FS_TC_CLIENT_BOOKING/TC_CL_NORMAL_BKG_11_01</property>
+  <property name="description">Cluster journey booking not allowed through booking form 1</property>
+  <property name="id">Test Cases/ClientTestCases/FS_TC_CLIENT_BOOKING/TC_CL_NORMAL_BKG_11_01</property>
+  <property name="source">D:\\APOSWorkSpaceInGradle\\UsingKatlon\\ClientAutomatedTesting\\Test Cases\\ClientTestCases\\FS_TC_CLIENT_BOOKING\\TC_CL_NORMAL_BKG_11_01.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2019-11-26T20:26:14</date>
+  <millis>1574780174424</millis>
+  <sequence>7</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>(Default) inputPNRNo = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-11-26T20:26:14</date>
+  <millis>1574780174433</millis>
+  <sequence>8</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>(Default) trainNo = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-11-26T20:26:14</date>
+  <millis>1574780174441</millis>
+  <sequence>9</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>(Default) jrnyDate = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-11-26T20:26:14</date>
+  <millis>1574780174449</millis>
+  <sequence>10</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>(Default) sourceStnCode = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-11-26T20:26:14</date>
+  <millis>1574780174456</millis>
+  <sequence>11</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>(Default) destnStnCode = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-11-26T20:26:14</date>
+  <millis>1574780174465</millis>
+  <sequence>12</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>(Default) quotaCode = </message>
+  <nestedLevel>1</nestedLevel>
+</record>

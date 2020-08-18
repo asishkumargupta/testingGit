@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To test successsful Login</description>
+   <name>TC_GetAllClsAccoAvblty_MCP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0df681f1-79f4-498f-8ae8-8b37ba2ec833</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7151b0c3-33ca-434e-a830-d5353b7e7cf8</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c15d6943-aba3-4799-9498-916993f2ccba</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

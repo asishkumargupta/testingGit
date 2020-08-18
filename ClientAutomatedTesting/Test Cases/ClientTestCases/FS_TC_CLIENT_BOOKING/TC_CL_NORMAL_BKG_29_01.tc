@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>UPI payment option is being asked from passenger</description>
+   <name>TC_CL_NORMAL_BKG_29_01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>41b9c9f6-09bb-4809-977c-654456a6e2a2</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fe1269c9-273f-4899-aa53-fc2ab96ab6d7</id>
+      <masked>false</masked>
+      <name>inputPNRNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4f42a9e2-61dd-4a45-a19d-599646c4aa2c</id>
+      <masked>false</masked>
+      <name>trainNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d7b9a026-ed6f-4742-8313-3ade21231e5a</id>
+      <masked>false</masked>
+      <name>jrnyDate</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>26d98e6e-da47-4a6b-bac9-a89e0d10e9cb</id>
+      <masked>false</masked>
+      <name>sourceStnCode</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7d296a45-7b0f-4845-9608-8a416becb490</id>
+      <masked>false</masked>
+      <name>destnStnCode</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>01845f84-a3c7-4373-81e7-985ef11aeb03</id>
+      <masked>false</masked>
+      <name>quotaCode</name>
+   </variable>
+</TestCaseEntity>

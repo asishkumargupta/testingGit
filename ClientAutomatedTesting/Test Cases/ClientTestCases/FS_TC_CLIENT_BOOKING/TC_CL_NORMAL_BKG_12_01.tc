@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Journey Reservation upto should be same as journey destination for GST applicable classes.</description>
+   <name>TC_CL_NORMAL_BKG_12_01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>09cd2242-babf-442b-b8b6-f27fc44151cd</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cc65eccf-5793-4e1d-9351-eefb669170d0</id>
+      <masked>false</masked>
+      <name>inputPNRNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5a6b4b8d-8ab5-4d84-95d6-faf9c23a1293</id>
+      <masked>false</masked>
+      <name>trainNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2a9c8292-2ff0-4cc1-bee8-ab6643332471</id>
+      <masked>false</masked>
+      <name>jrnyDate</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>70e06ad4-c525-4ff7-bc9a-611d048e3d06</id>
+      <masked>false</masked>
+      <name>sourceStnCode</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c466f444-c0d4-4bae-8eba-7abed1621c09</id>
+      <masked>false</masked>
+      <name>destnStnCode</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>eb4fe41a-4c7e-4761-b679-0ad0d309db84</id>
+      <masked>false</masked>
+      <name>quotaCode</name>
+   </variable>
+</TestCaseEntity>

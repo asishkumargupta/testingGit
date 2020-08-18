@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>completeQuotaCodeNameDiv</name>
+   <tag></tag>
+   <elementGuidId>b1f980c5-4ec1-4ce1-8b0f-d0bd9ee2dd06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-4']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c34-23 ng-trigger ng-trigger-transformPanel mat-select-panel mat-primary</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> GN - GENERAL  LD - LADIES  FT - FOREIGN TOURIST  DF - DEFENCE  HP - PHYSICALLY HANDICAP  HO - HIGH OFFICIAL   SS - SOURCE_STATION  TQ - TATKAL  YU - YUVA  RC - RAC  PH - PARLIAMENT HOUSE  PT - PREMIUM TATKAL  DP - DUTY PASS </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-4&quot;)/div[@class=&quot;mat-select-panel-wrap ng-tns-c34-23 ng-trigger ng-trigger-transformPanelWrap ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c34-23 ng-trigger ng-trigger-transformPanel mat-select-panel mat-primary&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-4']/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MON AUG 05 2019'])[1]/following::div[6]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div</value>
+   </webElementXpaths>
+</WebElementEntity>

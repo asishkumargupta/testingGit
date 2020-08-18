@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>Input Data for FS_TC_CLIENT_BOOKING</description>
+   <name>DataFS_TC_CLIENT_BOOKING</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator>COMMA</csvSeperator>
+   <dataFileGUID>3fa33e59-4919-4724-9271-936e5868d66b</dataFileGUID>
+   <dataSourceUrl>D:\APOSWorkSpaceInGradle\UsingKatlon\ClientAutomatedTesting\UserDataFiles\inputfiles\FS_TC_CLIENT_BOOKING_DATA.csv</dataSourceUrl>
+   <driver>CSV</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_TrainBtwStations_B1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>adb712b7-0255-4ca8-a298-9c633f5cd773</testCaseGuid>
+</TestCaseEntity>

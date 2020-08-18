@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_AllClassAccomodationAvblty</name>
+   <tag></tag>
+   <elementGuidId>fb1e4403-1e05-483d-addc-39b1a5c4ad34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='divMain']/app-enquiries/mat-sidenav-container/mat-sidenav-content/app-enquiries-menu/div/div[2]/div/app-availability-enquiries/div/div[2]/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card bg-warning text-white mat-elevation-z4 py-2 px-1 text-sm font-weight-bold cursor-pointer border border-6 border-top-0 border-left-0 border-right-0 border-warning</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/enquiries/accomodation_availability/c</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>C2. ALL CLASSES ACCOMMODATION AVAILABILITY </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;divMain&quot;)/app-enquiries[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;bg-theme mat-drawer-container mat-sidenav-container mat-drawer-transition&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content ng-untouched ng-pristine ng-valid&quot;]/app-enquiries-menu[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container ng-star-inserted&quot;]/div[@class=&quot;row justify-content-center&quot;]/div[@class=&quot;col-12 col-md-10 col-lg-8 col-xl-6&quot;]/app-availability-enquiries[1]/div[@class=&quot;card bg-theme container mat-elevation-z4 p-0 my-2 ng-star-inserted&quot;]/div[@class=&quot;row card-body p-2&quot;]/div[@class=&quot;col-12 my-1 mx-0 ng-star-inserted&quot;]/a[@class=&quot;card bg-warning text-white mat-elevation-z4 py-2 px-1 text-sm font-weight-bold cursor-pointer border border-6 border-top-0 border-left-0 border-right-0 border-warning&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='divMain']/app-enquiries/mat-sidenav-container/mat-sidenav-content/app-enquiries-menu/div/div[2]/div/app-availability-enquiries/div/div[2]/div[2]/a</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='C1. ACCOMMODATION AVAILABILITY'])[1]/following::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='C3. PASSEGNERS BOOKED IN EACH COACH'])[1]/preceding::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/enquiries/accomodation_availability/c')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-availability-enquiries/div/div[2]/div[2]/a</value>
+   </webElementXpaths>
+</WebElementEntity>

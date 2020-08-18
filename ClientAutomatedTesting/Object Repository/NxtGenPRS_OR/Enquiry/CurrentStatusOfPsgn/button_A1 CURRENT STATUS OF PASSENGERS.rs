@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_A1 CURRENT STATUS OF PASSENGERS</name>
+   <tag></tag>
+   <elementGuidId>daa16d81-91a6-49a1-bc5c-0b6431ae66db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='divMain']/app-enquiries/mat-sidenav-container/mat-sidenav-content/app-enquiries-menu/div/div[2]/div/app-enquiry-menu-segment/div/div[2]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>accent</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator w-100 text-left text-sm text-truncate mat-stroked-button mat-button-base mat-accent ng-star-inserted</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> A1. CURRENT STATUS OF PASSENGERS </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;divMain&quot;)/app-enquiries[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container bg-transparent ng-star-inserted&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content ng-untouched ng-pristine ng-valid&quot;]/app-enquiries-menu[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-fluid my-2 ng-star-inserted&quot;]/div[@class=&quot;bg-gradient-accent-primary p-1 col-12&quot;]/div[@class=&quot;row justify-content-center m-1 px-0 py-1 bg-light&quot;]/app-enquiry-menu-segment[@class=&quot;col-12 col-md-6 col-lg-6 col-xl-3 px-1 ng-star-inserted&quot;]/div[@class=&quot;card bg-theme container mat-elevation-z4 p-0 my-2&quot;]/div[@class=&quot;row card-body p-2&quot;]/div[@class=&quot;col-12 my-1 mx-0 ng-star-inserted&quot;]/button[@class=&quot;mat-focus-indicator w-100 text-left text-sm text-truncate mat-stroked-button mat-button-base mat-accent ng-star-inserted&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='divMain']/app-enquiries/mat-sidenav-container/mat-sidenav-content/app-enquiries-menu/div/div[2]/div/app-enquiry-menu-segment/div/div[2]/div/button</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PRS'])[1]/following::button[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A2. SEARCH FOR PNR'])[1]/preceding::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/button</value>
+   </webElementXpaths>
+</WebElementEntity>
