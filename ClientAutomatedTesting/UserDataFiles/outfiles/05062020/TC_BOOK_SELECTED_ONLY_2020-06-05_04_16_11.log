@@ -1,8 +1,0 @@
-Total Records Processed =94
-Total Records Skipped Due to Exception=26
-Total Records with Matching Fare=64
-Total Records with Non Matching Fare =4
-Skipped Record Details - TC_BOOK_SELECTED_ONLY_2020-06-05_04_16_11SKIPRECS.csv
-Matching Record Details - TC_BOOK_SELECTED_ONLY_2020-06-05_04_16_11MATCHRECS.csv
-Non Matching Record Details - TC_BOOK_SELECTED_ONLY_2020-06-05_04_16_11.csv
-Execution Time in DD - hh:mm:sec - 00 days - 00:56:28.368
